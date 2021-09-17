@@ -7800,7 +7800,7 @@ textarea.form-control-lg {
 .bg-primary {
   
   --bs-bg-opacity: 1;
-  background-image: url("/assets/abstratoametista2.jpg");
+  background-image: url("../assets/abstratoametista2.jpg");
   background-size: cover;
   /*background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;*/
 }
@@ -7842,7 +7842,7 @@ textarea.form-control-lg {
 }
 
 .bg-dark-img{
-  background-image: url("/assets/abstratoametista.jpg");
+  background-image: url("../assets/abstratoametista.jpg");
   width: 100%;
   height: 100%;
   opacity: 0.9;
