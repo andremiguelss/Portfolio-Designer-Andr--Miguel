@@ -11467,3 +11467,7 @@ header.masthead h1, header.masthead .h1 {
   color: var(--bs-body-color);
   text-decoration: none;
 }
+
+.htmlLogo{
+  text-align: center;
+}
